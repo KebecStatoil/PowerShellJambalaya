@@ -1,0 +1,32 @@
+{
+    "fileRunOrder": [
+        {
+            "fileName": "00_DisableDdlTrigger.sql",
+            "runChunked": false
+        },
+        {
+            "fileName": "DropForeignKeyConstraints.sql",
+            "runChunked": true
+        },
+        {
+            "fileName": "DropTables.sql",
+            "runChunked": true
+        },
+        {
+            "fileName": "DropViews.sql",
+            "runChunked": true
+        },
+        {
+            "fileName": "DropFunctions.sql",
+            "runChunked": true
+        },
+        {
+            "fileName": "DropStoredProcedures.sql",
+            "runChunked": true
+        },
+        {
+            "fileName": "99_EnableDdlTrigger.sql",
+            "runChunked": false
+        }
+    ]
+}

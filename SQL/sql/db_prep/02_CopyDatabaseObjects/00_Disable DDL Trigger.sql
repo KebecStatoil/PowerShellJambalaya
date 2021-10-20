@@ -1,0 +1,10 @@
+SET NOCOUNT ON
+
+USE [Pims_PBV_Upgrade]
+GO
+
+DECLARE @SQL NVARCHAR(MAX)
+
+SET @SQL = 'DISABLE TRIGGER [strg_Database_ChangeLog] ON DATABASE'
+
+EXEC(@SQL)

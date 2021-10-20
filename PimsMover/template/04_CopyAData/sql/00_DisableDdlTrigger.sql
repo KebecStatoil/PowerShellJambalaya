@@ -1,0 +1,10 @@
+SET NOCOUNT ON
+
+USE [{{newDatabaseName}}]
+GO
+
+DECLARE @SQL NVARCHAR(MAX)
+
+SET @SQL = 'DISABLE TRIGGER [strg_Database_ChangeLog] ON DATABASE'
+
+EXEC(@SQL)

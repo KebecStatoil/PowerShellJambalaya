@@ -1,0 +1,20 @@
+{
+    "fileRunOrder": [
+        {
+            "fileName": "01_CreateDevUsers.sql",
+            "type": "file"
+        },
+        {
+            "fileName": "02_AddDatabasePermissions.sql",
+            "type": "file"
+        },
+        {
+            "fileName": "03_GrantDatabaseRoles.sql",
+            "type": "file"
+        },
+        {
+            "fileName": "04_ApplyPermissions.sql",
+            "type": "file"
+        }
+    ]
+}

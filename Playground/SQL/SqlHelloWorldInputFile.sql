@@ -1,0 +1,1 @@
+select count(*) [count] from [Pims_PBV_Upgrade].[sys].[objects]

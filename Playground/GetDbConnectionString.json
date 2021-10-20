@@ -1,0 +1,9 @@
+{
+    "server_port": "ws2651,12001",
+    "database": "Pims_PBV_Upgrade",
+    "userid": "kevin@omega.no",
+    "password": {
+        "vault": "kfjb-kv-pimsupgrade",
+        "secret": "kevin-omega"
+    }
+}

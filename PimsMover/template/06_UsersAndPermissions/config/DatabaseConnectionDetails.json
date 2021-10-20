@@ -1,0 +1,6 @@
+{
+    "server_port": "ws2651,12001",
+    "database": "{{newDatabaseName}}",
+    "userid": "{{devloperLogin}}",
+    "password": "NotMyR3alPa55word"
+}

@@ -1,0 +1,24 @@
+{
+    "fileRunOrder": [
+        {
+            "fileName": "01_TransfersUsers.sql",
+            "type": "file"
+        },
+        {
+            "fileName": "02_TransferAccess.sql",
+            "type": "file"
+        },
+        {
+            "fileName": "03_TransferMenuFavoritesFilters.sql",
+            "type": "file"
+        },
+        {
+            "fileName": "03a_CopyOpenMenuUsage.sql",
+            "type": "file"
+        },
+        {
+            "fileName": "04_ApplyPermissions.sql",
+            "type": "file"
+        }
+    ]
+}

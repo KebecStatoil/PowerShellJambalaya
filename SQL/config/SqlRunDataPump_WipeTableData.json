@@ -1,0 +1,25 @@
+{
+    "scriptFolder": "C:\\APPL\\PowerShell\\SQL\\sql\\datapump",
+    "fileRunOrder": [
+        {
+            "fileName": "DisableTriggers.sql",
+            "runChunked": false
+        },
+        {
+            "fileName": "DisableTableConstraints.sql",
+            "runChunked": false
+        },
+        {
+            "fileName": "DeleteTableData.sql",
+            "runChunked": true
+        },
+        {
+            "fileName": "EnableTableConstraintsChunked.sql",
+            "runChunked": true
+        },
+        {
+            "fileName": "EnableTriggers.sql",
+            "runChunked": false
+        }
+    ]
+}

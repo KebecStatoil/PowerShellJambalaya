@@ -1,0 +1,13 @@
+{
+    "devloperLogin": "kevin@omega.no",
+    "externalAssembliesUser": "af_qem_dbo",
+    "newDatabaseName": "Pims_QEM",
+    "sourceApplicationDatabase": "Pims_Est_R4",
+    "sourceSystemDatabase": "Pims_Est_R4_Appframe430",
+    "backupFileLocation": "G:\\SQLBCK\\Pims_Release_20_09.bak",
+    "backupDatabaseName": "PIMS_R4",
+    "mdfDataBaseFullName": "F:\\mssql\\data\\PM16018\\Pims_QEM.mdf",
+    "backupLogName": "PIMS_R4_Log",
+    "ldfLogFullName": "G:\\mssql\\log\\PM16018\\Pims_QEM.ldf",
+    "CimsApplication": "Pims QEM"
+}

@@ -1,0 +1,44 @@
+{
+    "fileRunOrder": [
+        {
+            "fileName": "00_DisableDdlTrigger.sql",
+            "runChunked": false
+        },
+        {
+            "fileName": "DisableTriggers.sql",
+            "runChunked": false
+        },
+        {
+            "fileName": "DisableTableConstraints.sql",
+            "runChunked": false
+        },
+        {
+            "fileName": "DeleteTableData.sql",
+            "runChunked": true
+        },
+        {
+            "fileName": "DeleteFileReferences.sql",
+            "runChunked": true
+        },
+        {
+            "fileName": "CopyFileReferences.sql",
+            "runChunked": true
+        },
+        {
+            "fileName": "CopyTableData.sql",
+            "runChunked": true
+        },
+        {
+            "fileName": "NoCheckEnableTableConstraints.sql",
+            "runChunked": true
+        },
+        {
+            "fileName": "EnableTriggers.sql",
+            "runChunked": false
+        },
+        {
+            "fileName": "99_EnableDdlTrigger.sql",
+            "runChunked": false
+        }
+    ]
+}

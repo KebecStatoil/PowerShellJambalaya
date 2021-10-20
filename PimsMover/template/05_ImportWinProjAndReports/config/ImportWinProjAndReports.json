@@ -1,0 +1,20 @@
+{
+    "fileRunOrder": [
+        {
+            "folderName": "Reports",
+            "type": "folder"
+        },
+        {
+            "folderName": "WinProjects",
+            "type": "folder"
+        },
+        {
+            "fileName": "UpdateProductsAndModules.sql",
+            "type": "file"
+        },
+        {
+            "fileName": "CopyDomainReportLogos.sql",
+            "type": "file"
+        }
+    ]
+}

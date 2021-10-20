@@ -1,0 +1,13 @@
+{
+    "devloperLogin": "kevin@omega.no",
+    "externalAssembliesUser": "af_operationsvb_dbo",
+    "newDatabaseName": "Pims_OperationsVB",
+    "sourceApplicationDatabase": "Pims_Operations",
+    "sourceSystemDatabase": "Pims_Operations_Appframe",
+    "backupFileLocation": "G:\\SQLBCK\\Pims_Release_20_09.bak",
+    "backupDatabaseName": "PIMS_R4",
+    "mdfDataBaseFullName": "F:\\mssql\\data\\PM16018\\Pims_OperationsVB.mdf",
+    "backupLogName": "PIMS_R4_Log",
+    "ldfLogFullName": "G:\\mssql\\log\\PM16018\\Pims_OperationsVB.ldf",
+    "CimsApplication": "Pims Operations"
+}

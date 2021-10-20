@@ -1,0 +1,44 @@
+{
+    "fileRunOrder": [
+        {
+            "fileName": "00_DisableDdlTrigger.sql",
+            "type": "file"
+        },
+        {
+            "folderName": "TableNoConstraint",
+            "type": "folder"
+        },
+        {
+            "folderName": "UserDefinedTableTypes",
+            "type": "folder"
+        },
+        {
+            "folderName": "AtbView",
+            "type": "folder"
+        },
+        {
+            "folderName": "AviwView",
+            "type": "folder"
+        },
+        {
+            "folderName": "ArptView",
+            "type": "folder"
+        },
+        {
+            "folderName": "UserDefinedFunction",
+            "type": "folder"
+        },
+        {
+            "folderName": "StoredProcedure",
+            "type": "folder"
+        },
+        {
+            "folderName": "Table",
+            "type": "folder"
+        },
+        {
+            "fileName": "99_EnableDdlTrigger.sql",
+            "type": "file"
+        }
+    ]
+}

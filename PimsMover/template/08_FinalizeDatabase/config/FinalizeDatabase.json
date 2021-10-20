@@ -1,0 +1,12 @@
+{
+    "fileRunOrder": [
+        {
+            "fileName": "WithCheckEnableTableConstraints.sql",
+            "runChunked": true
+        },
+        {
+            "fileName": "IndexOptimize.sql",
+            "runChunked": false
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "scriptFolder": "C:\\APPL\\PowerShell\\SQL\\sql\\db_prep\\02_CopyDatabaseObjects",
+    "fileRunOrder": [
+        {
+            "fileName": "00_Disable DDL Trigger.sql",
+            "runChunked": false
+        },
+        {
+            "fileName": "01_ServiceBrokerAndUserDefinedTypes.sql",
+            "runChunked": true
+        },
+        {
+            "fileName": "02_TableViewFuncProc.sql",
+            "runChunked": true
+        },
+        {
+            "fileName": "99_Enable DDL Trigger.sql",
+            "runChunked": false
+        }
+    ]
+}
