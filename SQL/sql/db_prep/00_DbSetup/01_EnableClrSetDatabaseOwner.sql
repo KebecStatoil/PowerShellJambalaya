@@ -17,7 +17,7 @@ GO
 
 -- Create a standard unprivileged SQL login, set this login as the owner of Pims database and grant it access to run external access assemblies
 -- Rename [DatabaseOwner] to a friendly username
-CREATE LOGIN [af_pbv_upgrade_dbo] WITH PASSWORD=N'kB!bu9YEyHgRV7veeyQ!57=aeRZHy!s$', DEFAULT_DATABASE=[master], DEFAULT_LANGUAGE=[us_english];
+CREATE LOGIN [af_pbv_upgrade_dbo] WITH PASSWORD=N'{{FIRE_AND_FOGET_PASSWORD}}', DEFAULT_DATABASE=[master], DEFAULT_LANGUAGE=[us_english];
 GO
 
 -- Set unprivileged SQL login as database owner and enable Trustworthy
